@@ -42,7 +42,7 @@ To create an affordable, real-time, and remotely accessible solution for baby mo
 
 ---
 
-## 📷 Dashboard Preview *(optional)*
+## 📷 Dashboard Preview
 
 <img width="1919" height="849" alt="Screenshot 2024-03-18 232614" src="https://github.com/user-attachments/assets/a5663a26-3e33-4ef0-8421-18c634486576" />
 
@@ -74,8 +74,6 @@ This project is licensed under the MIT License. Feel free to use and modify for 
 Thanks to the Arduino IoT Cloud platform and open-source sensor libraries for making this project possible.
 
 📫 Contact
-Feel free to connect with me on LinkedIn or raise an issue for suggestions!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sarvesh-sivasankaran/) or raise an issue for suggestions!
 
 ---
-
-Let me know if you'd like me to include your actual Arduino sketch file (`.ino`) and `thingProperties.h` structure inside the repo layout too.
